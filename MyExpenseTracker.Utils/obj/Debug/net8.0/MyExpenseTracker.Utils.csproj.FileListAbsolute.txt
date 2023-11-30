@@ -1,0 +1,11 @@
+H:\Projects\Github\MyExpenseTracker\MyExpenseTracker.Utils\bin\Debug\net8.0\MyExpenseTracker.Utils.deps.json
+H:\Projects\Github\MyExpenseTracker\MyExpenseTracker.Utils\bin\Debug\net8.0\MyExpenseTracker.Utils.dll
+H:\Projects\Github\MyExpenseTracker\MyExpenseTracker.Utils\bin\Debug\net8.0\MyExpenseTracker.Utils.pdb
+H:\Projects\Github\MyExpenseTracker\MyExpenseTracker.Utils\obj\Debug\net8.0\MyExpenseTracker.Utils.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\Github\MyExpenseTracker\MyExpenseTracker.Utils\obj\Debug\net8.0\MyExpenseTracker.Utils.AssemblyInfoInputs.cache
+H:\Projects\Github\MyExpenseTracker\MyExpenseTracker.Utils\obj\Debug\net8.0\MyExpenseTracker.Utils.AssemblyInfo.cs
+H:\Projects\Github\MyExpenseTracker\MyExpenseTracker.Utils\obj\Debug\net8.0\MyExpenseTracker.Utils.csproj.CoreCompileInputs.cache
+H:\Projects\Github\MyExpenseTracker\MyExpenseTracker.Utils\obj\Debug\net8.0\MyExpenseTracker.Utils.dll
+H:\Projects\Github\MyExpenseTracker\MyExpenseTracker.Utils\obj\Debug\net8.0\refint\MyExpenseTracker.Utils.dll
+H:\Projects\Github\MyExpenseTracker\MyExpenseTracker.Utils\obj\Debug\net8.0\MyExpenseTracker.Utils.pdb
+H:\Projects\Github\MyExpenseTracker\MyExpenseTracker.Utils\obj\Debug\net8.0\ref\MyExpenseTracker.Utils.dll
